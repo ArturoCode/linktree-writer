@@ -8,7 +8,7 @@ Es una página sencilla realizada con HTML, CSS y Bootstrap, principalmente, y e
 
 <table>
     <tr>
-        <td><img src="images/linktree-pc.png" /></td>
-        <td><img src="images/linktree-movil.png" /></td>
+        <td><img src="images/linktree_pc.png" /></td>
+        <td><img src="images/linktree_movil.png" /></td>
     </tr>
 </table>
